@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\classes-4b7112f96402e1996adbda7be320f43f8e0c032f.jar" />
+    </item>
+    <item
+        jar="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\internal_impl-22.2.1-6734c89bbac4821dc582070178c6ffe2cd7f0b09.jar" />
+    </item>
+    <item
+        jar="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\classes-092416c1071c2143dcf9f8cfde7b9fdd9e1ee909.jar" />
+    </item>
+    <item
+        jar="C:\Ricardo\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\support-annotations-22.2.1-ac790a8f5e9bf5ae51e91faefaa4c3632f714c2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\classes-1cd02fcc8b97f1381b5bff5b24f1cd3b5ebe6c28.jar" />
+    </item>
+    <item
+        jar="C:\Users\VOLM\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.17\f417d7f776d1ee5858fc04d9362aa45e9bedd26b\library-1.0.17.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f417d7f776d1ee5858fc04d9362aa45e9bedd26b">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\library-1.0.17-044b4c9c1428eaa135ec9c259e88463e1ede7ba3.jar" />
+    </item>
+    <item
+        jar="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\classes-6a52ba01c5a8dfb13c2ded187bcc9f680b3fb31d.jar" />
+    </item>
+    <item
+        jar="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\VOLM\Desktop\InterestedPlaces\interestedplaces\build\intermediates\pre-dexed\release\classes-8306941196e5cdcabac5f2f4a504d4f947caa51f.jar" />
+    </item>
+
+</items>

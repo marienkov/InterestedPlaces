@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InterestedPlaces</string>
+    <string name="title_activity_main">InterestedPlaces</string>
+    <string name="google_api_key">AIzaSyCnDSYLIDMKO1u7mul1kVjpqJdwJU3lOB8</string>
+
+    <string name="place_name_format">Name: %s</string>
+    <string name="place_address_format">Address: %s</string>
+    <string name="place_phone">Phone: %s</string>
+    <string name="place_distance_format">Distance: %d meters</string>
+    <string name="key_word_hint">Enter keyword</string>
+    <string name="find_key">FIND</string>
+    <string name="date_format">dd-MM-yyyy</string>
+</resources>
